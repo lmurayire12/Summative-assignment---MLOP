@@ -1,0 +1,15 @@
+{
+  "model_name": "ProductEngagement_CNN",
+  "accuracy": 0.75,
+  "loss": 0.5696324110031128,
+  "training_date": "2025-08-03T09:19:25.396572",
+  "dataset_size": {
+    "train": 10,
+    "validation": 2,
+    "test": 8
+  },
+  "model_path_h5": "c:\\Users\\HP\\Documents\\Summative-assignment---MLOP\\models\\product_engagement_model.h5",
+  "model_path_keras": "c:\\Users\\HP\\Documents\\Summative-assignment---MLOP\\models\\product_engagement_model.keras",
+  "framework": "tensorflow",
+  "version": "2.19.0"
+}
